@@ -1,0 +1,14 @@
+body{
+    text-align: justify;
+    color: black;
+    background-color: red;
+}
+.titulo{
+font-family: monospace;
+color: black;
+text-align: center;
+}
+.flamengo{
+    width:30%;
+    text-align: center;  
+}
