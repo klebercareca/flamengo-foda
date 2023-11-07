@@ -1,7 +1,8 @@
 body{
-    text-align: justify;
+    text-align: center;
     color: black;
     background-color: red;
+    
 }
 .titulo{
 font-family: monospace;
@@ -9,6 +10,10 @@ color: black;
 text-align: center;
 }
 .flamengo{
-    width:30%;
-    text-align: center;  
+    width:40%;
+     text-align: center;
+}
+.Gabigol{
+    width: 90%;
+
 }
